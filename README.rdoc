@@ -1,0 +1,3 @@
+This application allows a user to dynamically search for breweries that are brewing a particular abv of beer. The application utilizes the Google Maps API v3 and the BreweryDB API.
+
+http://beersearch.herokuapp.com/
